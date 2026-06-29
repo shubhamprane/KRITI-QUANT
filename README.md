@@ -181,5 +181,3 @@ The script will auto-detect the data format, print a live progress log, and writ
 - Must hold at least 1 position every day (buys cheapest available stock if needed)
 
 ---
-
-*Submitted by Hostel 2613 for KRITI 2026.*
